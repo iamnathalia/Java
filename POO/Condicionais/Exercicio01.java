@@ -1,4 +1,4 @@
-package atividadesJava;
+package Java.POO.Condicionais;
 
 import java.util.Scanner;
 

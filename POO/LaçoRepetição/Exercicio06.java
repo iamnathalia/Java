@@ -1,8 +1,8 @@
-package Java.Repeticoes;
+package Java.POO;
 
 import java.util.Scanner;
 
-public class exercicio06 {
+public class Exercicio06 {
 
 	public static void main(String[] args) {
 		

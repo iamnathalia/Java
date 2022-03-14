@@ -1,4 +1,4 @@
-package JavaPOO.IntroducaoPOO;
+package Java.POO.OrientaçãoObjetos;
 
 public class Patinete {
 
